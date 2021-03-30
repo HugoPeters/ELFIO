@@ -29,6 +29,7 @@ THE SOFTWARE.
 #include <sstream>
 #include <iomanip>
 #include <elfio/elfio.hpp>
+#include "../../mips_def.h"
 
 namespace ELFIO {
 
